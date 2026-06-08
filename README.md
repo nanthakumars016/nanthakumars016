@@ -107,16 +107,17 @@ Full-stack e-commerce app with product catalog, cart, checkout flow, and respons
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nanthakumars016&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="Nanthakumar's GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanthakumars016&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nanthakumars016&theme=tokyonight" height="160" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nanthakumars016&theme=tokyonight" height="160" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nanthakumars016&theme=tokyonight&utcOffset=5.5" height="160" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nanthakumars016&theme=tokyonight" height="160" alt="Most Committed Language"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=nanthakumars016&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nanthakumars016&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
 ---
