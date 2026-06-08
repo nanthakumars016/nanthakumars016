@@ -107,17 +107,16 @@ Full-stack e-commerce app with product catalog, cart, checkout flow, and respons
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nanthakumars016&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=1800" height="170" alt="Nanthakumar's GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanthakumars016&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="170" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nanthakumars016&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="Nanthakumar's GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanthakumars016&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nanthakumars016&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=nanthakumars016&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nanthakumars016&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nanthakumars016&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
 ---
